@@ -1,0 +1,31 @@
+{
+  "task": [
+    {
+      "userName": "Nithin S",
+      "taskName": "React",
+      "taskDetail": "Class",
+      "startDate": "2022-07-06",
+      "endDate": "2022-07-11",
+      "status": "OnGoing",
+      "id": 1
+    },
+    {
+      "userName": "Chinmayee",
+      "taskName": "Hanashi",
+      "taskDetail": "Kothi",
+      "startDate": "2022-01-06",
+      "endDate": "2022-12-06",
+      "status": "OnGoing",
+      "id": 2
+    },
+    {
+      "userName": "Venkatesh",
+      "taskName": "M",
+      "taskDetail": " Bro",
+      "startDate": "2022-05-07",
+      "endDate": "2022-08-07",
+      "status": "OnGoing",
+      "id": 3
+    }
+  ]
+}
